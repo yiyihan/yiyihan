@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Yihan from Nanyang Technological University.
-- 🔭 I’m currently working on Autonomous Environmental Service Vehicles project.
+I'm Yihan, an incoming RA at CUHK.
+- 🔭 I’m currently working on ITF project.
 - 🌱 I’m currently interested in 3D Object Detection, 3D Semantic Segmentation, Multi-modal Fusion...
-- 👯 I’m looking for an PhD oppertunity.
 - 📫 How to reach me: WANG1517@e.ntu.edu.sg
 <!--
 **yiyihan/yiyihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
